@@ -12,6 +12,7 @@ The Gerbera Flower Counting System is an automated solution designed to streamli
 - [Methodology and Technologies](#methodology-and-technologies)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
+- [Dataset](#dataset)
 - [Project Planning](#project-planning)
 - [Conclusion](#conclusion)
 
@@ -28,7 +29,7 @@ The Gerbera Flower Counting System integrates drone (UAV), computer vision, and 
 
 ## Objective
 
-The primary objective of this project is to develop a Python-based system for machine learning model implementation, image processing, and object detection. By leveraging Python, YOLO, and other technologies, the system will automate flower counting tasks with high precision and efficiency.
+The primary objective of this project is to develop a Python-based system for machine learning model implementation, image processing, and object detection. By leveraging Python, YOLOv8, and other technologies, the system will automate flower counting tasks with high precision and efficiency.
 
 ## Methodology and Technologies
 
@@ -60,6 +61,10 @@ The primary objective of this project is to develop a Python-based system for ma
 4. **User Interface for Communication:** UI for real-time video reception.
 5. **User Interface for Displaying Final Output:** UI for displaying count & classification of flowers.
 
+## Dataset
+
+The dataset used in this project is available on Kaggle at the following link: [Gerbera Flower Dataset](https://www.kaggle.com/datasets/rujulmodi/gerbera-flower-dataset)
+
 ## Project Planning
 
 - Hardware configuration
@@ -71,4 +76,3 @@ The primary objective of this project is to develop a Python-based system for ma
 ## Conclusion
 
 The Gerbera Flower Counting System represents a transformative leap in the floriculture industry, promising to streamline flower counting processes with precision and efficiency. By leveraging drones, computer vision, and machine learning, this project aims to revolutionize conventional approaches and enhance production management in floriculture.
-
