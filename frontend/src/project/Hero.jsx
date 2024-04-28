@@ -15,7 +15,7 @@ const Hero = () => {
     const isLoggedIn = localStorage.getItem("userInfo"); // Check if user is logged in
     if (isLoggedIn) {
       // If user is logged in, redirect to the specified link
-      window.open("https://gerberadetection.streamlit.app", "_blank"); // Replace "/specified-link" with your desired route
+      window.open("https://detectt.streamlit.app/Object_Detection_-_Roboflow_Train", "_blank"); // Replace "/specified-link" with your desired route
     } else {
       // If user is not logged in, display a notification or perform any other action
       alert("Please log in to Get Started!!");
