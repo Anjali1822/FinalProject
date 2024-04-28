@@ -28,12 +28,12 @@ The Gerbera Flower Counting System integrates drone (UAV), computer vision, and 
 
 ## Objective
 
-The primary objective of this project is to develop a Python-based system for machine learning model implementation, image processing, and object detection. By leveraging Python, OpenCV, and other technologies, the system will automate flower counting tasks with high precision and efficiency.
+The primary objective of this project is to develop a Python-based system for machine learning model implementation, image processing, and object detection. By leveraging Python, YOLO, and other technologies, the system will automate flower counting tasks with high precision and efficiency.
 
 ## Methodology and Technologies
 
 - **Python:** Implement machine learning model for counting and classification tasks.
-- **OpenCV:** Perform image processing tasks and object detection.
+- **YOLOv8:** Perform image processing tasks and object detection.
 - **Drone Configuration:** Set up hardware components for drone flight.
 - **Ground Control Software:** Monitor and control drone flight.
 - **User Interface:** Develop UI for real-time video reception and display of final output.
@@ -55,7 +55,7 @@ The primary objective of this project is to develop a Python-based system for ma
 ## Software Requirements
 
 1. **Python:** Used for implementing machine learning model.
-2. **OpenCV:** Python library for image processing and object detection.
+2. **YOLOv8:** Python library for image processing and object detection.
 3. **Ground Control Software:** Used to control & monitor drone flight.
 4. **User Interface for Communication:** UI for real-time video reception.
 5. **User Interface for Displaying Final Output:** UI for displaying count & classification of flowers.
